@@ -1,3 +1,6 @@
+# You can visit the deployed app using this link
+https://634729955747510052033841--jade-bonbon-1d7a65.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
